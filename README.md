@@ -64,4 +64,4 @@ This project is intended **strictly for educational purposes** and should not be
 
 ## License
 
-This project is distributed under the MIT License. See the `LICENSE` file for more information (a LICENSE file should be included in your repository).
+This project is distributed under the MIT License. See the `LICENSE` file for more information.
