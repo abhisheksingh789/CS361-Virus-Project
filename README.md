@@ -1,8 +1,6 @@
-Certainly! Below is an elaborated README.md file for your assignment/project on the "V" virus program. This README includes detailed sections that describe the project, its functionality, how to set it up and run it, as well as a section on safety and legal information.
+### Updated README.md for the "V" Virus Program
 
-### README.md for the "V" Virus Program
 
-```markdown
 # "V" Virus Program Analysis and Simulation
 
 This repository hosts the "V" Virus Program, a Python-based simulation designed to demonstrate the behavior and propagation mechanics of a computer virus. This project is part of the CS361 Computer Security course at the Indian Institute of Information Technology, Guwahati.
@@ -34,7 +32,7 @@ The "V" virus program is crafted to explore the functionalities of a typical fil
 ### Setup
 
 1. Clone this repository to your local machine:
-   ```bash
+   ```
    git clone https://github.com/abhisheksingh789/assignment1-cs361.git
    cd assignment1-cs361
    ```
@@ -44,29 +42,26 @@ The "V" virus program is crafted to explore the functionalities of a typical fil
 ### Running the Program
 
 To execute the "V" program, navigate to the repository's directory and run:
-
-```bash
+```
 python V.py
 ```
 
 ## Safety and Legal Notice
 
-This project is intended **strictly for educational purposes** and should not be used for illegal activities. The creators and contributors do not endorse misuse and will not be liable for any damages caused by the deployment or misuse of this software.Please adhere to your local laws and regulations regarding the use of such software.
+This project is intended **strictly for educational purposes** and should not be used for illegal activities. The creators and contributors do not endorse misuse and will not be liable for any damages caused by the deployment or misuse of this software. Please adhere to your local laws and regulations regarding the use of such software.
 
 ## Contribution
 
-**B.Tech CSE 3rd Year**
+**B.Tech CSE 3rd year**
 
 - **Abhishek Kumar** - Development and Documentation
 - **Harsh Rajput** - Code Review and Enhancements
 
 ## Acknowledgments
 
-- **Rakesh Matam** -Course Instructor
+- **Rakesh Matam** - Course Instructor
 - Faculty and peers at IIIT Guwahati for their support and feedback throughout the development of this project.
 
 ## License
- 
-This project is distributed under the MIT License. See the `LICENSE` file for more information (you would need to include a LICENSE file in your repository).
-```
 
+This project is distributed under the MIT License. See the `LICENSE` file for more information (a LICENSE file should be included in your repository).
