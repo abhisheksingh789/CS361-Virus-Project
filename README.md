@@ -1,4 +1,4 @@
-### Updated README.md for the "V" Virus Program
+ # Updated README.md for the "V" Virus Program
 
 
 # "V" Virus Program Analysis and Simulation
@@ -33,8 +33,8 @@ The "V" virus program is crafted to explore the functionalities of a typical fil
 
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com/abhisheksingh789/assignment1-cs361.git
-   cd assignment1-cs361
+   git clone https://github.com/abhisheksingh789/CS361-Virus-Project.git
+   cd CS361-Virus-Project
    ```
 
 2. It is **highly recommended** to run this script in a controlled environment, such as a virtual machine or a sandbox, to prevent unintended side effects.
@@ -64,4 +64,4 @@ This project is intended **strictly for educational purposes** and should not be
 
 ## License
 
-This project is distributed under the MIT License. See the `LICENSE` file for more information.
+This project is distributed under the [MIT License](./LICENSE). See the `LICENSE` file for more information.
